@@ -1,0 +1,71 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Repos/ATTInyBlink/.pio/libdeps/attiny85/DallasTemperature",
+                "c:/Repos/ATTInyBlink/.pio/libdeps/attiny85/OneWire",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/ATTinyCore/src",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/EEPROM",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/SPI",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo/src",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo_ATTinyCore/src",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/SoftwareSerial",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/Wire/src",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel_Static",
+                "c:/Repos/ATTInyBlink/include",
+                "c:/Repos/ATTInyBlink/src",
+                "c:/Repos/common",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/cores/tiny",
+                "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/variants/tinyX5",
+                "C:/Users/Marcus/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Repos/ATTInyBlink/.pio/libdeps/attiny85/DallasTemperature",
+                    "c:/Repos/ATTInyBlink/.pio/libdeps/attiny85/OneWire",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/ATTinyCore/src",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/EEPROM",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/SPI",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo/src",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo_ATTinyCore/src",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/SoftwareSerial",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/Wire/src",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel_Static",
+                    "c:/Repos/ATTInyBlink/include",
+                    "c:/Repos/ATTInyBlink/src",
+                    "c:/Repos/common",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/cores/tiny",
+                    "C:/Users/Marcus/.platformio/packages/framework-arduino-avr-attiny/variants/tinyX5",
+                    "C:/Users/Marcus/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40304",
+                "ARDUINO_AVR_ATTINYX5",
+                "F_CPU=8000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATtiny85__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Marcus/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=attiny85",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
